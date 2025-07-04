@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+This repository documents my journey learning Erlang through the “Learn You Some Erlang for Great Good!” book. With a solid background in Elixir, I'm diving into Erlang to deepen my understanding of the BEAM VM and gain a more foundational grasp of concepts like concurrency, message passing, and fault tolerance. The repo includes exercises, experiments, and notes focused on building practical intuition and exploring what Elixir often abstracts away.
